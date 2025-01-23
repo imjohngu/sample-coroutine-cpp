@@ -58,8 +58,6 @@ int main() {
 ## 构建和运行
 
 ```bash
-# 克隆仓库
-git clone https://github.com/yourusername/modern-coroutine.git
 
 # 创建构建目录
 mkdir build && cd build
