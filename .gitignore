@@ -1,0 +1,27 @@
+# IDE配置
+.idea/
+.vscode/
+
+# CMake构建目录
+cmake-build-debug/
+cmake-build-release/
+build/
+
+# 编译产物
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# macOS系统文件
+.DS_Store
+
+# 依赖目录
+vendor/
+third_party/
+
+# 临时文件
+*.swp
+*.swo
+*~
